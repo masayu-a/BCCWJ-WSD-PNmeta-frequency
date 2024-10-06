@@ -1,4 +1,4 @@
-# 『現代日本語書き言葉均衡コーパス』新聞記事データ記事分類別短単位語彙表（分類語彙表番号つき）(BCCWJ-PNmeta-WSD-frequency version 2024.03)
+# 『現代日本語書き言葉均衡コーパス』新聞記事データ記事分類別短単位語彙表（分類語彙表番号つき）(BCCWJ-PNmeta-WSD-frequency version 2024.10)
 
 ## Description
 
@@ -26,8 +26,8 @@
 9. BCCWJ-meta:出版年
 10. UniDic:lForm 語彙素読み(UniDic)
 11. UniDic:lemma 語彙素(UniDic)
-12. UniDic:subLemma 語彙素細分類(UniDic)
-13. UniDic:pos 品詞(UniDic)
+12. UniDic:pos 品詞(UniDic)
+13. UniDic:subLemma 語彙素細分類(UniDic)
 14. UniDic:wType 語種(UniDic)
 15. WLSP:article number 分類番号(分類語彙表)
 16. WLSP:class 類(分類語彙表)
@@ -62,3 +62,9 @@
 ## Contact
 
 kotonoha@ninjal.ac.jp
+
+## History
+
+- (BCCWJ-WSD-PNmeta-frequency version 2024.03) から (BCCWJ-WSD-PNmeta-frequency version 2024.10) への変更点
+
+subLemma の列を変更
